@@ -1,0 +1,5 @@
+WeaponData
+{
+	"zoom_time_in"									"0"
+	"zoom_time_out"   								"0"
+}

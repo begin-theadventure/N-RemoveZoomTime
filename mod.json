@@ -1,0 +1,6 @@
+{
+	"Name" : "Remove Zoom Time",
+	"Description" : "Removes zoom time.\nzoom_time_in and zoom_time_out changed to 0.",
+	"Version": "ඞ1.0",
+	"LoadPriority": 2,
+}
