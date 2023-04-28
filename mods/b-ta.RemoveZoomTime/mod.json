@@ -1,6 +1,6 @@
 {
 	"Name" : "ඞb-ta.RemoveZoomTime",
-	"Description" : "Removes zoom time.\nzoom_time_in and zoom_time_out values changed to 0.\nbegin-theadventure 2023",
+	"Description" : "-Removes zoom time.\nzoom_time_in and zoom_time_out values changed to 0.\nbegin-theadventure 2023",
 	"Version": "ඞ1.0.0",
 	"LoadPriority": 2,
 }
